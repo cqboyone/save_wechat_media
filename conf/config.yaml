@@ -1,0 +1,10 @@
+#保存文件根目录
+to_path: C:\Users\xx\Downloads\tosave
+
+#保存文件的群组id
+room_list:
+  - xxxxx@chatroom
+  - xxxxx@chatroom
+  - xxxxx@chatroom
+
+
